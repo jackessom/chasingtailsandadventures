@@ -24,5 +24,9 @@ export enum EMediaQueries {
   MEDIUM = "min-width : 1024px",
   LARGE = "min-width : 1224px",
   XL = "min-width : 1400px",
-  xxl = "min-width : 1800px",
+  XXL = "min-width : 1800px",
+}
+
+export enum ESpacing {
+  NORMAL = "20px",
 }
